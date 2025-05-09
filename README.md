@@ -2,4 +2,4 @@
 
 Instructions for running the Jailbreak_LLM code can be found [here](https://github.com/Princeton-SysML/Jailbreak_LLM).
 
-Instructions for running the benign-data-breaks-safety code can be found [here](https://github.com/princeton-nlp/benign-data-breaks-safety).
+Instructions for running the benign-data-breaks-safety code can be found [here](https://github.com/princeton-nlp/benign-data-breaks-safety). The attack the fine-tuned models, copy them from finetuned_models_seeds to the models folder.

@@ -1,3 +1,5 @@
 # A Reproduction Study of “Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation”
 
-Download the scorer and evaluator [here](https://drive.google.com/drive/folders/1G0bxoe7lNfpaEQKqBb3JW5M0db9GJ5BR).
+Instructions for running the Jailbreak_LLM code can be found [here](https://github.com/Princeton-SysML/Jailbreak_LLM).
+
+Instructions for running the benign-data-breaks-safety code can be found [here](https://github.com/princeton-nlp/benign-data-breaks-safety).
